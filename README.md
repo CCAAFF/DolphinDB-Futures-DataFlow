@@ -1,4 +1,4 @@
-# DolphinDB-Real-time-futures-data-acquisition-and-cascading-responsive-computing-engine
+# DolphinDB-Futures-DataFlow
 
 基于Dolphindb接入上期所Simnow期货实时数据获得单档盘口的流数据，计算买卖压力差因子与结果回测实践案例展示。
 
@@ -7,5 +7,7 @@
 图书预计2026年10月-12月出版
 
 Based on real-time data from Simnow futures, obtain flow data for single position positions, calculate buying and selling pressure differential factors, and present practical case studies for backtesting results.
-Code acquisition needs to wait until the book is published (or contact the author now for a small-scale discussion)
-The code here is a partial code from the book "Factor Mining Driven by AI".
+
+The code will be available after the book is published (now released in advance).  
+The code provided here is part of the content from the book "Factor Mining Driven by AI."  
+The book is expected to be published between October and December 2026.
